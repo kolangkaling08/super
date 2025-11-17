@@ -1,3 +1,3 @@
 <?php
-include 'compress.zlib://simple.gz';
+include 'compress.zlib://sample.gz';
 ?>
